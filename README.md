@@ -1,7 +1,6 @@
 # Counter
 
-**TODO: Add description**
-
+Simple Counter app to demonstrate the use Worker Bee Driven Design. From the book [Design Elixir Systems with OTP](https://pragprog.com/titles/jgotp/)
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
